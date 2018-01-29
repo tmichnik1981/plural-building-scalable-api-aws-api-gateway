@@ -1,0 +1,14 @@
+{
+  "name": "get_inventory",
+  "version": "1.0.0",
+  "description": "getInventory Lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Tomasz Michnik",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
